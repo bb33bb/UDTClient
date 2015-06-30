@@ -5,8 +5,6 @@ import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.net.InetAddress;
 
-import udt.util.Util;
-
 public class OneClientTest {
 	public static void main(String[] args) throws InterruptedException,
 			IOException {
